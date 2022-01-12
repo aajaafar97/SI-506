@@ -1,0 +1,15 @@
+{
+  "url": "https://swapi.py4e.com/api/people/1/",
+  "name": "Luke Skywalker",
+  "birth_year": "19BBY",
+  "height": 172.0,
+  "mass": 77.0,
+  "homeworld": {
+    "name": "Tatooine",
+    "diameter": 10465.0,
+    "climate": "hot and arid",
+    "system": "Tatoo system",
+    "population": 200000,
+    "orbital_position": "first from the sun"
+  }
+}
