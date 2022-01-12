@@ -1,0 +1,172 @@
+{
+  "name": "Millennium Falcon",
+  "model": "YT-1300 light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "100000",
+  "length": "34.37",
+  "max_atmosphering_speed": "1050",
+  "crew": "4",
+  "passengers": [
+    {
+      "name": "Chewbacca",
+      "category": "co-pilot",
+      "boarding_order": 1,
+      "height": "228",
+      "mass": "112",
+      "hair_color": "brown",
+      "skin_color": "unknown",
+      "eye_color": "blue",
+      "birth_year": "200BBY",
+      "gender": "male",
+      "homeworld": {
+        "name": "Kashyyyk",
+        "rotation_period": "26",
+        "orbital_period": "381",
+        "diameter": "12765",
+        "climate": "tropical",
+        "gravity": "1 standard",
+        "terrain": "jungle, forests, lakes, rivers",
+        "surface_water": "60",
+        "population": "45000000"
+      },
+      "species": {
+        "name": "Wookiee"
+      }
+    },
+    {
+      "name": "Luke Skywalker",
+      "category": "crew",
+      "boarding_order": 2,
+      "height": "172",
+      "mass": "77",
+      "hair_color": "blond",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "homeworld": {
+        "name": "Tatooine",
+        "rotation_period": "23",
+        "orbital_period": "304",
+        "diameter": "10465",
+        "climate": "arid",
+        "gravity": "1 standard",
+        "terrain": "desert",
+        "surface_water": "1",
+        "population": "200000"
+      },
+      "species": {
+        "name": "Human"
+      }
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "category": "crew",
+      "boarding_order": 3,
+      "height": "182",
+      "mass": "77",
+      "hair_color": "auburn, white",
+      "skin_color": "fair",
+      "eye_color": "blue-gray",
+      "birth_year": "57BBY",
+      "gender": "male",
+      "homeworld": {
+        "name": "Stewjon",
+        "rotation_period": "unknown",
+        "orbital_period": "unknown",
+        "diameter": "0",
+        "climate": "temperate",
+        "gravity": "1 standard",
+        "terrain": "grass",
+        "surface_water": "unknown",
+        "population": "unknown"
+      },
+      "species": {
+        "name": "Human"
+      }
+    },
+    {
+      "name": "C-3PO",
+      "category": "crew",
+      "boarding_order": 4,
+      "height": "167",
+      "mass": "75",
+      "hair_color": "n/a",
+      "skin_color": "gold",
+      "eye_color": "yellow",
+      "birth_year": "112BBY",
+      "gender": "n/a",
+      "homeworld": {
+        "name": "Tatooine",
+        "rotation_period": "23",
+        "orbital_period": "304",
+        "diameter": "10465",
+        "climate": "arid",
+        "gravity": "1 standard",
+        "terrain": "desert",
+        "surface_water": "1",
+        "population": "200000"
+      },
+      "species": {
+        "name": "Droid"
+      }
+    },
+    {
+      "name": "R2-D2",
+      "category": "crew",
+      "boarding_order": 5,
+      "height": "96",
+      "mass": "32",
+      "hair_color": "n/a",
+      "skin_color": "white, blue",
+      "eye_color": "red",
+      "birth_year": "33BBY",
+      "gender": "n/a",
+      "homeworld": {
+        "name": "Naboo",
+        "rotation_period": "26",
+        "orbital_period": "312",
+        "diameter": "12120",
+        "climate": "temperate",
+        "gravity": "1 standard",
+        "terrain": "grassy hills, swamps, forests, mountains",
+        "surface_water": "12",
+        "population": "4500000000"
+      },
+      "species": {
+        "name": "Droid"
+      }
+    },
+    {
+      "name": "Han Solo",
+      "category": "captain",
+      "boarding_order": 6,
+      "height": "180",
+      "mass": "80",
+      "hair_color": "brown",
+      "skin_color": "fair",
+      "eye_color": "brown",
+      "birth_year": "29BBY",
+      "gender": "male",
+      "homeworld": {
+        "name": "Corellia",
+        "rotation_period": "25",
+        "orbital_period": "329",
+        "diameter": "11000",
+        "climate": "temperate",
+        "gravity": "1 standard",
+        "terrain": "plains, urban, hills, forests",
+        "surface_water": "70",
+        "population": "3000000000"
+      },
+      "species": {
+        "name": "Human"
+      }
+    }
+  ],
+  "cargo_capacity": "100000",
+  "consumables": "2 months",
+  "hyperdrive_rating": "0.5",
+  "MGLT": "75",
+  "starship_class": "Light freighter"
+}

@@ -1,0 +1,73 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Twilight",
+  "name": "Twilight",
+  "model": "G9 Rigger-class light freighter",
+  "starship_class": "Light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "length_m": 34.1,
+  "max_atmosphering_speed": 700,
+  "hyperdrive_rating": 3.0,
+  "MGLT": null,
+  "armament": [
+    "3 x heavy blasters",
+    "1 x Rotating blaster cannon",
+    "Concussion missile launchers"
+  ],
+  "crew_members": {
+    "pilot": {
+      "url": "https://starwars.fandom.com/wiki/Anakin_Skywalker",
+      "name": "Anakin Skywalker",
+      "birth_year": "41BBY",
+      "height_m": 188.0,
+      "mass_kg": 87.0,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Tatooine",
+        "name": "Tatooine",
+        "region": "Outer Rim Territories",
+        "sector": "Arkanis sector",
+        "suns": 2,
+        "moons": 3,
+        "orbital_period_days": 304.0,
+        "diameter_km": 10465,
+        "gravity_std": 1.0,
+        "climate": [
+          "Hot",
+          "Arid"
+        ],
+        "terrain": [
+          "Canyons",
+          "Desert",
+          "Mountains",
+          "Rocky bluffs"
+        ],
+        "population": 200000
+      },
+      "force_sensitive": true
+    },
+    "copilot": {
+      "url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi",
+      "name": "Obi-Wan Kenobi",
+      "birth_year": "57BBY",
+      "height_m": 182.0,
+      "mass_kg": 77.0,
+      "homeworld": {
+        "url": "https://starwars.fandom.com/wiki/Stewjon",
+        "name": "Stewjon",
+        "region": null,
+        "sector": null,
+        "suns": null,
+        "moons": null,
+        "orbital_period_days": null,
+        "diameter_km": null,
+        "gravity_std": 1.0,
+        "climate": null,
+        "terrain": null,
+        "population": null
+      },
+      "force_sensitive": true
+    }
+  },
+  "passengers_on_board": null,
+  "cargo_capacity_kg": 70000,
+  "consumables": "1 month"
+}
