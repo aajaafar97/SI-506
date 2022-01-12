@@ -1,0 +1,11 @@
+club,established,city,state,uscb_region,stadium,capacity,played,win,draw,loss,goals_for,goals_against,shots,shots_on_goal,points,top_scorers_count,top_scorers_goals,top_scorers_goals_pct,shot_conversion_rate,shots_on_goal_conversion_rate,club_classification
+Chicago Red Stars,2006,Bridgeview,IL,Midwest,SeatGeek Stadium,20000,23,10,5,8,27,28,231,109,35,0,0,0.0,0.117,0.248,middle_tier
+Houston Dash,2013,Houston,TX,South,BBVA Stadium,22039,23,9,5,9,31,30,213,94,32,1,9,29.03,0.146,0.33,middle_tier
+Kansas City,2020,Kansas City,KS,Midwest,Legends Field,10385,22,3,6,13,14,32,224,95,15,0,0,0.0,0.062,0.147,bottom_tier
+NJ/NY Gotham FC,2006,Harrison,NJ,Northeast,Red Bull Arena,25000,21,8,8,5,26,18,197,73,32,2,15,57.69,0.132,0.356,middle_tier
+North Carolina Courage,2017,Cary,NC,South,Sahlen's Stadium at WakeMed Soccer Park,10000,23,9,5,9,28,23,246,118,32,2,12,42.86,0.114,0.237,middle_tier
+OL Reign,2012,Tacoma,WA,West,Cheney Stadium,6500,23,12,3,8,34,24,290,132,39,4,25,73.53,0.117,0.258,top_tier
+Orlando Pride,2015,Orlando,FL,South,Exploria Stadium,25500,23,7,7,9,27,31,197,97,28,2,13,48.15,0.137,0.278,bottom_tier
+Portland Thorns FC,2012,Portland,OR,West,Providence Park,25218,23,13,4,6,33,17,324,140,43,3,17,51.52,0.102,0.236,top_tier
+Racing Louisville FC,2019,Louisville,KY,South,Lynn Family Stadium,15304,22,5,5,12,19,38,143,61,20,1,6,31.58,0.133,0.311,bottom_tier
+Washington Spirit,2012,Washington,DC,South,Audi Field,20000,23,10,6,7,28,26,231,109,36,2,15,53.57,0.121,0.257,top_tier
